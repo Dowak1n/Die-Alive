@@ -3,7 +3,7 @@
 Here you can find the game Die Alive.
 More details on the implementation can be found below.
 
-![Screenshot1](Screens/ScreenShot1.png)
+![Screenshot1](Screens/ScreenShot1.PNG)
 
 ### Features of implementation ###
 
@@ -18,5 +18,5 @@ More details on the implementation can be found below.
 * Assets for characters and surrounding objects taken from the Asset Store.
 * Unity version: `2019.4.17f1`.
 
-![Screenshot2](Screens/ScreenShot2.png)
-![Screenshot3](Screens/ScreenShot3.png)
+![Screenshot2](Screens/ScreenShot2.PNG)
+![Screenshot3](Screens/ScreenShot3.PNG)
